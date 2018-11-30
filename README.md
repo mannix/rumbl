@@ -1,20 +1,19 @@
-# Rumbl
+# Programming Phoenix >= 1.4 (B5.0: October 19, 2018)
 
-To start your Phoenix server:
+## Progress
+### Part I. Building with Functional MVC
+[x] 2. The Lay of the Land
+[x] 3. Controllers
+[ ] 4. Ecto and Changesets
+[ ] 5. Authenticating Users
+[ ] 6. Generators and Relationships
+[ ] 7. Ecto Queries and Constraints
+[ ] 8. Testing MVC
+### Part II. Writing Interactive and Maintainable Applications
+[ ] 9. Watching Videos
+[ ] 10. Using Channels
+[ ] 11. OTP
+[ ] 12. Observer and Umbrellas
+[ ] 13. Testing Channels and OTP
+[ ] 14. What's Next?
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Install Node.js dependencies with `cd assets && npm install`
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix
